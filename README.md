@@ -35,7 +35,7 @@ $$
 
 This project has been refactored to use **[uv](https://github.com/astral-sh/uv)** for high-speed dependency management and reproducibility.
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone [https://github.com/julian-dqtr/plasma.git](https://github.com/julian-dqtr/plasma.git)
 cd plasma
@@ -87,4 +87,5 @@ As described above, we want to train two other models. In the current pipeline, 
 * **Supervision & Architecture: [Edouard Yvinec](https://github.com/EdouardYvinec)**
     * Project supervision and scientific guidance.
     * Design of the original repository structure and educational resources.
+
 
