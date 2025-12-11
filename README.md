@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/python-3.12%2B-blue)
-![License](https://img.shields.io/badge/License-AGPL%203.0-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Manager](https://img.shields.io/badge/uv-fast-purple)
 
 # Plasma Analysis via Variational Autoencoders (VAE)
@@ -91,6 +91,7 @@ As described above, we want to train two other models. In the current pipeline, 
 * **Supervision & Architecture: [Edouard Yvinec](https://github.com/EdouardYvinec)**
     * Project supervision and scientific guidance.
     * Design of the original repository structure and educational resources.
+
 
 
 
