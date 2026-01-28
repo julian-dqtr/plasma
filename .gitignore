@@ -1,22 +1,22 @@
-
 .venv/
 __pycache__/
+*.py[cod]
+.ipynb_checkpoints/
 
+/data/
+*.zip
+*.tar.gz
 
 checkpoints/
 *.pt
 *.pth
 
-
-.DS_Store
-
-
-
 RUNS_PLASMA/
 image_train/
 losses/
-checkpoints/
-*.png
-*.jpg
-*.svg
+results/
+plots/
 
+.DS_Store
+.vscode/
+.idea/
